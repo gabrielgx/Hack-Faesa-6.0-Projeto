@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="DragoTarget" size="893.000000 1280.000000" />
+    <ImageTarget name="BlackHoleTarget" size="826.000000 1280.000000" />
+    <ImageTarget name="CarroTarget" size="933.000000 1280.000000" />
+    <ImageTarget name="img39" size="2460.000000 2072.000000" />
+    <ImageTarget name="img36" size="1784.000000 2372.000000" />
+    <ImageTarget name="Audi" size="2224.000000 1548.000000" />
+    <ImageTarget name="Guitar" size="2636.000000 2224.000000" />
+    <ImageTarget name="food" size="2752.000000 2124.000000" />
+    <ImageTarget name="note" size="2624.000000 1548.000000" />
+    <ImageTarget name="iPhone" size="2200.000000 3208.000000" />
+    <ImageTarget name="CrachaAd" size="1560.000000 2848.000000" />
+    <ImageTarget name="CrachaFun" size="2360.000000 1432.000000" />
+    <ImageTarget name="name" size="495.000000 297.000000" />
+    <ImageTarget name="lord" size="250.000000 370.000000" />
+    <ImageTarget name="ving" size="202.000000 288.000000" />
+    <ImageTarget name="Oce" size="1329.000000 1581.000000" />
+    <ImageTarget name="Doct" size="1289.000000 1293.000000" />
+    <ImageTarget name="Tec" size="1617.000000 857.000000" />
+    <ImageTarget name="Rick" size="2369.000000 1009.000000" />
+    <ImageTarget name="Rafael" size="2529.000000 1537.000000" />
+    <ImageTarget name="Marcos" size="2633.000000 1145.000000" />
+    <ImageTarget name="Lucas" size="2657.000000 1681.000000" />
+    <ImageTarget name="Cats" size="2065.000000 1777.000000" />
+    <ImageTarget name="Iron" size="1951.000000 3839.000000" />
+    <ImageTarget name="Fae" size="2673.000000 1777.000000" />
+  </Tracking>
+</QCARConfig>
